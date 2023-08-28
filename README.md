@@ -41,12 +41,15 @@
 - https://attack.mitre.org/matrices/enterprise/
 
 شامل TTP (تاکتیک، تکنیک و روش های) کلیه پلتفرم های زیر می شود:
+
 `Windows, macOS, Linux, PRE, Azure AD, Office 365, Google Workspace, SaaS, IaaS, Network, Containers. `
 
 و همچنین Mobile MAtrix که شامل TTP (تاکتیک، تکنیک و روش های) پلتفرم های  iOS و Android می شود
+
 `https://attack.mitre.org/matrices/mobile/`
 
 و همچنین ICS Matrix  که شامل TTP ( تاکتیک، تکنیک و روش های) شبکه های صنعتی می باشد.
+
 `https://attack.mitre.org/matrices/ics/`
 
 
@@ -77,8 +80,11 @@
 - Action on objectives
 
 برای شبیه سازی حملات APT گروه ها با توجه به نوع گروه ها از ابزارهای مختلفی استفاده می شود که شامل C2 سرورها و اکسپلویت ها یا حتی LOLBINS ها می باشد لیست اکثر این ابزارها:
+
 `https://attack.mitre.org/software/`
+
 در اکثر مصاحبه از مهم ترین ابزارها نیز سوال می شود که برخی از آن ها در زیر لیست شده است
+
 **برخی از ابزارهای Red Teaming :** 
 
 - Cobalt Strike
