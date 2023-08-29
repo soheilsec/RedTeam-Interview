@@ -54,8 +54,7 @@
 
 
 **فریم ورک های Red Teaming :**
-
-- MITRE Attack
+- -> MITRE Attack
 - Reconnaissance
 - Resource Development
 - Initial Access
@@ -70,7 +69,8 @@
 - C2
 - Exfiltration
 - Impact
-- Cyber Kill chain
+  
+- ->Cyber Kill chain
 - Reconnaissance
 - Weaponization
 - Delivery
